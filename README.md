@@ -3,4 +3,4 @@
 - @babel/cli 
 - @babel/plugin-transform-arrow-functions
 
-Babelを使ってarrow functionをfinctionに変換
+Babelを使ってarrow functionをfunctionに変換
