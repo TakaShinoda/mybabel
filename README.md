@@ -2,5 +2,6 @@
 - @babel/core 
 - @babel/cli 
 - @babel/plugin-transform-arrow-functions
+- @babel/plugin-transform-block-scoping
 
-Babelを使ってarrow functionをfunctionに変換
+Babelプラグインをさわってみる
